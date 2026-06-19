@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Deepti Chauhan 
+AI & Machine Learning Student | Python Enthusiast | Aspiring Data Scientist
 
-<!--
-**deeptichauhan-collab/deeptichauhan-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence, Machine Learning, and Data Science. I enjoy building projects, exploring new technologies, and solving real-world problems using data and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interests
+Artificial Intelligence (AI)
+Machine Learning (ML)
+Data Science
+Deep Learning
+Python Programming
+Data Structures & Algorithms
+
+🌱 Currently Learning
+Machine Learning Algorithms
+Data Analysis with Python
+Neural Networks
+Model Evaluation & Optimization
+Git & GitHub
+
+🛠️ Skills
+Python
+NumPy
+Pandas
+Git & GitHub
+
+🎯 Goals
+Build impactful AI/ML projects
+Contribute to open-source projects
+Continuously improve problem-solving skills
+Pursue a career in AI and Data Science
+
+"Learning today, building the intelligent systems of tomorrow."
